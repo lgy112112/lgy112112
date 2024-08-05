@@ -29,8 +29,8 @@ Thank you for visiting my profile, and I hope you find something interesting her
 
 ## Education
 
-- **Undergraduate:** Southern Medical University, specializing in Oncology Radiology.
-- **Graduate:** Chinese University of Hong Kong, pursuing Biomedical Engineering.
+- **2020-2024:** Southern Medical University, specializing in Oncology Radiology.
+- **2024-:** Chinese University of Hong Kong, pursuing Biomedical Engineering.
 
 ## Research Publications
 
