@@ -2,6 +2,19 @@
 
 👋 Hi there! I'm Guoying Liao, aka David. Welcome to my GitHub profile, where you'll find my adventures in coding, research, and a few personal interests.
 
+## How to Reach Me? 📧
+
+You can reach me via email at:
+- 📩 3208010014@i.smu.edu.cn
+- 📩 lgy112112@gmail.com
+
+💻 I have been providing code outsourcing services, so if you are interested in collaborating, feel free to contact me.
+
+🌟 Most of my projects are completed on [Lightning AI Studio](https://lightning.ai/lgy112112/home). Due to client privacy requirements, I can only make a few projects public. If you need to see more, please get in touch with me.
+
+Thank you for visiting my profile, and I hope you find something interesting here! 🙌
+
+
 ## About Me
 
 - **Name:** Guoying Liao (David)
@@ -25,6 +38,7 @@
 - 📄 [Association of rs2435357 and rs2506030 polymorphisms in RET with susceptibility to Hirschsprung disease: A systematic review and meta-analysis](https://www.frontiersin.org/journals/pediatrics/articles/10.3389/fped.2022.1030933/full)
   - *Role:* Data processing and visualization
   - *Published on:* 2022, as undergraduate
+  - *Shout out:* my good fellas in Clinical College
 
 ## Projects
 
@@ -41,7 +55,7 @@
 
 3. **Crested Porcupine Optimizer (CPO) in Python**
    - 📄 Original MATLAB Code: [Crested Porcupine Optimizer MATLAB Code](https://drive.matlab.com/sharing/24c48ec7-bfd5-4c22-9805-42b7c394c691/)
-   - 🐍 My Python Implementation: [pyCPO on GitHub](https://github.com/lgy112112/pyCPO)
+   - 🐍 My Python Implementation (proud to say I am the 1st to do): [pyCPO on GitHub](https://github.com/lgy112112/pyCPO)
    - **Achievement:** Migrated the CPO algorithm to Python, demonstrating its superiority in a practical project.
 
 4. **Experimenting with KAN (Kolmogorov-Arnold Network)**
