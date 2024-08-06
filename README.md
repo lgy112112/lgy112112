@@ -13,7 +13,7 @@ You can reach me via a green little Chinese App:
 
 💻 I have been providing code outsourcing services, so if you are interested in collaborating, feel free to contact me.
 
-🌟 Most of my projects are completed on [Lightning AI Studio](https://lightning.ai/lgy112112/home). Due to client privacy requirements, I can only make a few projects public. If you need to see more, please get in touch with me.
+🌟 **_Most of my projects_** are completed on [Lightning AI Studio](https://lightning.ai/lgy112112/home). Due to client privacy requirements, I can only make a few projects public. If you need to see more, please get in touch with me.
 
 Thank you for visiting my profile, and I hope you find something interesting here! 🙌
 
@@ -21,9 +21,9 @@ Thank you for visiting my profile, and I hope you find something interesting her
 ## About Me
 
 - **Name:** Guoying Liao (David)
-- **Hobbies:** Longboard 🛹, guitar 🎸, customization 🔧, communication 💬
+- **Hobbies:** Longboard 🛹, guitar 🎸, customization 🔧, chat 💬
 - **Some Fun Facts:**
-  - 🌟 Participated in the Canton Fair twice, where I successfully traded with many overseas friends and earned my first significant income (which I spent on an iPad Pro).
+  - 🌟 Participated in the Canton Fair twice, where I successfully traded with many overseas friends and earned my first significant income (which I spent on an iPad Pro). I have to say I hate India accent (they are good partners tho).
   - 🏥 Interned at the General Hospital of the People’s Liberation Army in Beijing, working as a physicist in the oncology department. I was responsible for dose control and QA/QC.
   - 🤓 Realized women (no offense but) slow me down coding.
   - 🧑‍🤝‍🧑 Have 10+ boy friends.
@@ -65,8 +65,11 @@ Thank you for visiting my profile, and I hope you find something interesting her
    - 📊 Stock Market Prediction: [Stocks Prediction Tutorial](https://github.com/lgy112112/Stocks_Prediction_Tutorial), [KAN_Stocks](https://github.com/lgy112112/KAN_Stocks)
    - 🖼️ Image Tasks (CIFAR10): [KAN vs VGG on CIFAR10](https://github.com/lgy112112/KANvsVGGonCIFAR10)
    - **Focus:** Exploring the potential of the latest academic ideas in deep learning.
+     
+5. **Many More Available on My Lightning Studio**
+   - 😁 You want to see you call me maybe.
 
-5. **Deep Learning Tutorials**
+7. **Deep Learning Tutorials**
    - 📝 Building a Language Model: [NLP-Tutorial-How-to-be-Shakespeare](https://github.com/lgy112112/NLP-Tutorial-How-to-be-Shakesapeare)
    - 🧠 General Deep Learning Pipeline: [DeepLearning-Tutorial-Chinese](https://github.com/lgy112112/DeepLearning-Tutorial-Chinese)
    - 🔍 Understanding KAN: [Efficient-KAN-in-Chinese](https://github.com/lgy112112/Efficient-KAN-in-Chinese)
