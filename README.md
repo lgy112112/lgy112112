@@ -76,5 +76,6 @@ Thank you for visiting my profile, and I hope you find something interesting her
    - 🖼️ ViT for Image Classification: [simple-ViT-tutorial-to-recognize-taylor-and-olivia](https://github.com/lgy112112/simple-ViT-tutorial-to-recognize-taylor-and-olivia)
    - 📐 Solving a Topology Math Problem: [mathproblem](https://github.com/lgy112112/mathproblem)
    - ⚡ Example of FastAi Usage: [FastAi Example](https://github.com/lgy112112/FastAi-Example)
+   - 👽 Tutorial on MNIST Using MLP with Multi-View Training Method and **KAN**: [MNIST Tutorial](https://github.com/lgy112112/MIMI-MNIST-Tutorial)
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas. Happy coding! 🎸🛹
